@@ -1,0 +1,11 @@
+# Byte-code files
+*.pyc
+__pycache__/
+
+.env
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
